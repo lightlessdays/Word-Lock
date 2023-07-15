@@ -4,7 +4,7 @@ Discover the power of words with our dictionary app. Instantly access a vast col
 
 ## Screenshots
 
-<img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/610f01d5-e7b1-4766-9d1f-2ccd6e90350f" width=30%><img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/93ac52fe-4cdb-475a-b7af-e77ff4f78d22" width=30%><img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/b5ad51c9-7bc4-43da-8ade-fbeb1eee8a64" width=30%><img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/5de0d40a-13da-466e-816e-85c8c171ae64" width=30%>
+<img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/610f01d5-e7b1-4766-9d1f-2ccd6e90350f" width=30%>   <img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/93ac52fe-4cdb-475a-b7af-e77ff4f78d22" width=30%><br><img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/b5ad51c9-7bc4-43da-8ade-fbeb1eee8a64" width=30%>   <img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/5de0d40a-13da-466e-816e-85c8c171ae64" width=30%>
 
 
 
