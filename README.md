@@ -2,13 +2,13 @@
 
 Discover the power of words with our dictionary app. Instantly access a vast collection of definitions, synonyms, antonyms, and examples to enhance your language skills. Whether you're a student, writer, or language enthusiast, our user-friendly interface and comprehensive database make finding the right word a breeze. Expand your vocabulary, improve your communication, and unlock the true potential of language with our intuitive dictionary app.
 
-## Screenshots
+## 📱 Screenshots
 
 <img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/610f01d5-e7b1-4766-9d1f-2ccd6e90350f" width=30%>   <img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/93ac52fe-4cdb-475a-b7af-e77ff4f78d22" width=30%><br><img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/b5ad51c9-7bc4-43da-8ade-fbeb1eee8a64" width=30%>   <img src="https://github.com/lightlessdays/Word-Lock/assets/97734029/5de0d40a-13da-466e-816e-85c8c171ae64" width=30%>
 
 
 
-## Tech Stack
+## 🧑‍💻 Tech Stack
 
 This app has been made with Flutter. The following external packages have been used to aid the development process:
 - http
@@ -17,10 +17,10 @@ This app has been made with Flutter. The following external packages have been u
 - just_audio
 - url_launcher
 
-## Download
+## ⬇️ Download
 
 You can download the .APK file of this app by [clicking here](https://github.com/lightlessdays/Word-Lock/raw/main/app-release.apk).
 
-## Contribute
+## 🤝 License
 
-I am not accepting any pull requests as of now.
+You may use this code for non commerical purposes only (with full attributions). You can check out the license for this repository [here](LICENSE.md)
